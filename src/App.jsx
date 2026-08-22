@@ -1,11 +1,12 @@
 import './App.css'
+import Products from './components/Products'
 
 function App() {
   
 
   return (
     <>
-      <h1>Welcome to my ecommerce application</h1>
+      <Products/>
     </>
   )
 }
